@@ -1,6 +1,7 @@
 const CACHE_NAME = 'gate-opener-v1';
 const urlsToCache = [
-  '/gate.html',
+  '/',
+  '/index.html',
   '/manifest.json',
   '/icon-192.svg',
   '/icon-512.svg'

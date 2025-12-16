@@ -1,10 +1,10 @@
 const CACHE_NAME = 'gate-opener-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  '/icon-192.svg',
-  '/icon-512.svg'
+  '/gate-opener/',
+  '/gate-opener/index.html',
+  '/gate-opener/manifest.json',
+  '/gate-opener/icon-192.svg',
+  '/gate-opener/icon-512.svg'
 ];
 
 // Install service worker and cache files

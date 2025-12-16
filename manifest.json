@@ -2,7 +2,7 @@
   "name": "Gate Opener",
   "short_name": "Gate",
   "description": "Open your community gate with one tap",
-  "start_url": "/",
+  "start_url": "/gate-opener/",
   "display": "standalone",
   "background_color": "#667eea",
   "theme_color": "#667eea",
